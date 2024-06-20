@@ -1,9 +1,9 @@
 # Designing-Basic-Logic-Gates
-**Project Overview**
+## Project Overview 
 
 This project involves the proficient design and simulation of basic logic gates including Inverter, NAND, and NOR gates using the Cadence Virtuoso software. The work encompasses the creation of schematics, layouts, and test-benches for each logic gate, ensuring that all designs are error-free and function as intended through rigorous validation processes.
 
-**Features**
+## Features
 
 **Schematic Design:** Developed clear and functional schematics for Inverter, NAND, and NOR gates.
 
@@ -13,11 +13,11 @@ This project involves the proficient design and simulation of basic logic gates 
 
 **Post-Layout Simulations:** Conducted post-layout transient simulations to verify the performance and functionality of the circuits under realistic conditions.
 
-**Tools Used**
+## Tools Used
 
 **Cadence Virtuoso:** Utilized for designing schematics, layouts, and performing simulations.
 
-**Validation**
+## Validation
 
 **DRC and LVS Checks**: Ensured that all layouts pass DRC and LVS checks, confirming that the physical layout matches the schematic design without any rule violations.
 
